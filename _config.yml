@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tingchao Fan / Homepage"
+title                    : "Tingchao Fan's Homepage"
 title_separator          : "-"
 name                     : &name "Tingchao Fan"
 description              : &description "A Ph.D. student from Shanghai Jiao Tong University"
