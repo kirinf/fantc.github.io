@@ -16,7 +16,8 @@ My name is Tingchao Fan. I am a second year Ph.D. student from Shanghai Jiao Ton
 Research Interests
 ======
 ------
-My research interests mainly include **wireless sensing/communication**, **acoustics**, **optics** and **machine learning**.
+My research interests mainly include **Machine Learning for Physical Layer**, **Acoustic Wireless Communication/Sensing**, **Optics Wireless Communication/Sensing**.
+
 
 
 Publication
