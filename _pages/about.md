@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tingchao Fan. I am a second year Ph.D. student from Shanghai Jiao Tong University under the supervision of Prof. Meng jin.
+My name is Tingchao Fan. I am a third year Ph.D. student from Shanghai Jiao Tong University under the supervision of Prof. Meng jin.
 
 **Email:** kylin_f@sjtu.edu.cn
 
